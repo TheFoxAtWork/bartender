@@ -31,7 +31,7 @@ future==0.17.1 ; python_version < "3.0"
 futures==3.2.0 ; python_version < "3.0"
 idna==2.8                 # via requests
 imagesize==1.1.0          # via sphinx
-jinja2==2.10.1            # via sphinx
+jinja2==2.11.3            # via sphinx
 lark-parser==0.6.7
 markupsafe==1.1.1         # via jinja2
 marshmallow-polyfield==3.2
